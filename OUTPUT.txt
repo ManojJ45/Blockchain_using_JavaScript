@@ -1,0 +1,40 @@
+Mining is in progress!!!!!!!
+{
+    "blockchain": [
+        {
+            "index": 0,
+            "timestamp": "06.06.2022",
+            "data": "Initial Block in the Chain",
+            "preceding_Hash": "0",
+            "hash": "0",
+            "nonce": 0
+        },
+        {
+            "index": 1,
+            "timestamp": "01.06.2022",
+            "data": {
+                "sender": "Manoj",
+                "recipient": "Sunil",
+                "quantity": 5
+            },
+            "preceding_Hash": " ",
+            "hash": "0000ca9c3e3a2815b804a68672ab98a07730a511bde45591ab2a9ade6b879034",
+            "nonce": 18086,
+            "precedingHash": "0"
+        },
+        {
+            "index": 2,
+            "timestamp": "10.06.2022",
+            "data": {
+                "sender": "Sunil",
+                "recipient": "Kiran",
+                "quantity": 10
+            },
+            "preceding_Hash": " ",
+            "hash": "0000e0079eb2527c38c342daad80cb193b6801428c48382c34d38d41ff9a4188",
+            "nonce": 127567,
+            "precedingHash": "0000ca9c3e3a2815b804a68672ab98a07730a511bde45591ab2a9ade6b879034"
+        }
+    ],
+    "difficulty": 4
+}
